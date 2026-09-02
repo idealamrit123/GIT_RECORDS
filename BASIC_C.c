@@ -20,7 +20,7 @@ int main()
 
     printf("Enter One Character\n"); 
     scanf(" %c",&ch); 
-    printf("Char = %c\n",ch);
+    printf("Char = %c\n",ch); // It takes the char input 
 
 
 
