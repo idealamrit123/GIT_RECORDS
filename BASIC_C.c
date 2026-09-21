@@ -5,7 +5,7 @@ int main()
 {
     int ch;
     printf("Enter The Choice : 1. QE , 2. SQ Root , 3. AOT By Herons Formula , 4. distance relationships \n");
-    if (scanf("%c", &ch) != 1) {
+    if (scanf("%d", &ch) != 1) {
         return 0;
     }
 
